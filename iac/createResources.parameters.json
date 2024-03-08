@@ -5,6 +5,8 @@
     "aksLinuxAdminUsername": {
       "value": "localadmin"
     }
-failOnStderr:"false"
+    "failOnStderr": {
+      "value": "false"
+    }
   }
 }
